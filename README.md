@@ -41,4 +41,4 @@ This project utilises the Titanic dataset to predict passenger survival. Cross-v
 
 • Gender was the strongest predictor of survival
 
-
+[result link](https://github.com/roy-tanmay/Automated-ML-Model-Selection/blob/main/ML%20Model%20Selection.ipynb)

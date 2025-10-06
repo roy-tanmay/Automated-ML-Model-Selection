@@ -5,7 +5,6 @@ This project utilises the Titanic dataset to predict passenger survival. Cross-v
 ## 🔍 Project Overview:
 
 ✅ Data cleaning, feature engineering, and encoding
-
 ✅ Compares 5 different algorithms with proper scaling
 
 ✅ Uses GridSearchCV for hyperparameter tuning with cross-validation
